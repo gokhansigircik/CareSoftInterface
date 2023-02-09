@@ -4,7 +4,7 @@ public class Test {
     Physician doctor10 = new Physician(1);
     AdminUser roseTyler = new AdminUser(2, "Companion");
     AdminUser donnaNoble = new AdminUser(3, "Companion");
-    // roseTyler.setId(2);
+    // roseTyler.setId(2); this is hard coded
     System.out.println(roseTyler.getId());
     
     // Physician Implementation Tests
